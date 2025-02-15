@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_gray">#D3D3D3</color> <!-- Light Gray for Input Fields -->
+    <color name="blue">#1E90FF</color> <!-- Taylor Blue for Text -->
+    <color name="gradient_start">#FF4081</color> <!-- Gradient Start (Pink) -->
+    <color name="gradient_end">#C2185B</color> <!-- Gradient End (Deep Pink) -->
+    <color name="background_beige">#F5E1C8</color>
+    <color name="input_brown">#D2B48C</color>
+    <color name="button_dark">#8B5E3C</color>
+    <color name="button_darker">#654321</color>
+    <color name="text_dark">#4E342E</color>
+
+</resources>
