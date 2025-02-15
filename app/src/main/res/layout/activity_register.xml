@@ -11,7 +11,7 @@
         android:id="@+id/etUsername"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter Username"
+        android:hint="Enter Username."
         android:layout_marginTop="10sp"
         android:padding="12dp"
         android:background="@drawable/round_input"
